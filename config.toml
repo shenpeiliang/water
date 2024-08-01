@@ -1,0 +1,25 @@
+[font]
+#字体路径
+path = "./font/Alibaba-PuHuiTi-Regular.ttf"
+
+[dir]
+#输入输出目录
+input = "./file/"
+#输出目录
+output = "./water/"
+
+[water]
+#水印文字
+text = "nishimura161"
+#水印字体大小
+size = 20
+#颜色
+color = "#97979790"
+#水平间隔
+horizontal = 50
+#垂直间隔
+vertical = 50
+#旋转角度
+rotate = 45.0
+#文件类型
+types = ["jpg", "png", "jpeg"]
